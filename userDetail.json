@@ -1,0 +1,19 @@
+{
+  "user": [
+    {
+      "firstName": "Nikhil",
+      "lastName": "Nirwan",
+      "DOB": "21-04-2000",
+      "password": "Test@123",
+      "email": "nikhil@yopmail.com",
+      "id": 29854
+    },
+    {
+      "firstName": "Rahul",
+      "lastName": "Patel",
+      "DOB": "21-04-2000",
+      "email": "ramul@yopmail.com",
+      "id": 61227
+    }
+  ]
+}

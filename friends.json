@@ -1,0 +1,15 @@
+{
+  "friends": [
+    {
+      "senderId": "48885",
+      "receiverId": "76098",
+      "isAccept": true,
+      "id": "9033"
+    },
+    {
+      "senderId": "48885",
+      "receiverId": "53069",
+      "id": "54020"
+    }
+  ]
+}
